@@ -1,5 +1,5 @@
 
-### Hi there 👋 My Name are 💻Bernard N Munyiri☕
+### Hi there 👋 My names are 💻Bernard N Munyiri☕
 
 - 🎆 I’m currently working on ...WordPress Site
 - 📚 I’m currently learning ...React JS
@@ -28,6 +28,19 @@
 
 <br/><br/>
 
+### 📺 Where to see my code 
+
+<a href="https://github.com/bmunyiri">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/bmunyiri?style=social&label=@bmunyiri">
+</a>
+<a href="https://codepen.io/bmunyiri">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/bmunyiri&color=000000&style=flat&logo=codepen"  />
+</a>
+
+
+
+<br/><br/>
+
 ### 🍹 I am social :
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kenyawebpro) 
@@ -43,21 +56,7 @@
 
 <br/><br/>
 
-### 📺 Where to see my code 
 
-<a href="https://github.com/bmunyiri">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/bmunyiri?style=social&label=@bmunyiri">
-</a>
-<a href="https://codepen.io/bmunyiri">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/bmunyiri&color=000000&style=flat&logo=codepen"  />
-</a>
-
-<br/><br/>
-
-### 🚴‍♂️ Visitors  Profile
-<img alt="visitors counter" src="https://profile-counter.glitch.me/bmunyiri/count.svg">
-
-<br/><br/>
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
 
@@ -74,7 +73,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
-    <br/><br/>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+   <br/><br/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
@@ -82,6 +82,12 @@
 
 
 <br/><br/>
+
+### 🚴‍♂️ Visitors  Profile
+<img alt="visitors counter" src="https://profile-counter.glitch.me/bmunyiri/count.svg">
+
+<br/><br/>
+
 
 
 
