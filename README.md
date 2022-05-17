@@ -16,17 +16,21 @@
 - - 📜 Portfolio - WordPress: [Synergy International ICCT](http://www.synergyicct.org)
 - - 📜 Portfolio - WordPress: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 Portfolio - WordPress: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
+- - - 📜 Portfolio - WordPress: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
 - 📜 Portfolio - React - Digital Business Card: [Code SandBox](https://codesandbox.io/s/digital-business-cardj-2l1w4j)
 
 
+  ### 📭 How to contact Me :
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kenyawebpro) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kenyawebpro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bmunyiri) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/kenyawebpro)
 
 
 
 
 
 
-
-http://stoiccarcentre.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -48,15 +52,4 @@ https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wor
 https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg
   
-  ### 📭 How to contact Me :
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
