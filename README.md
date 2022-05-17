@@ -13,6 +13,7 @@
 - - 📜 Portfolio - WordPress: [iNFiNiTY Baisikeli Ltd](https://infinity.ke)
 - - 📜 Portfolio - WordPress: [My lil Store Kenya](http://mylilstorekenya.com)
 - - 📜 Portfolio - WordPress: [Synergy International ICCT](http://www.synergyicct.org)
+- - 📜 Portfolio - WordPress: [MANUFACTURERS & SUPPLIERS (K) LTD](https://mslabrasives.com)
 - - 📜 Portfolio - WordPress: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 Portfolio - WordPress: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 Portfolio - WordPress: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
