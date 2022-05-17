@@ -15,7 +15,7 @@
 - - 📜 Portfolio - WordPress: [Synergy International ICCT](http://www.synergyicct.org)
 - - 📜 Portfolio - WordPress: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 Portfolio - WordPress: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
-- - - 📜 Portfolio - WordPress: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
+- - 📜 Portfolio - WordPress: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
 - 📜 Portfolio - React - Digital Business Card: [Code SandBox](https://codesandbox.io/s/digital-business-cardj-2l1w4j)
 
 <br/><br/>
