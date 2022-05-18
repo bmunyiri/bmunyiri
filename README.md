@@ -1,3 +1,7 @@
+            
+            Show me your constructor, and I'll tell you what kind of object you are.
+
+
 
 ### Hi there 👋 My names are 💻Bernard N Munyiri☕
 
