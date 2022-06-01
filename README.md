@@ -24,10 +24,12 @@
 - - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
-- 📜 Portfolio - React Projects
+- 📜 Portfolio - React Js Projects
+- - 📜 React Project: Conditional Rendering - Boxes: [Code SandBox](https://codesandbox.io/s/boxes-3duycn)
 - - 📜 React Project: Digital Business Card: [Code SandBox](https://codesandbox.io/s/digital-business-cardj-2l1w4j)
 - - 📜 React Project: Data Mapping - Most Expensive Cars In The World: [Code SandBox](https://codesandbox.io/s/v1j2v2?file=/src/App.js)
 - - 📜 React Project: Rendering a Component - Scrimba React Course Project 1: [Code SandBox](https://codesandbox.io/s/iim1xh)
+- 📜 Portfolio - Projects On Github
 
 <br/><br/>
 
