@@ -89,6 +89,11 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
+         <img src=" https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
+             <img src="[https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg)" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
+     
+    
+     
 <br/><br/>
 
 ### 🚴‍♂️ Visitors  Profile
