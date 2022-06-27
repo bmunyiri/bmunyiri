@@ -52,6 +52,9 @@
 <a href="https://codepen.io/bmunyiri">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/bmunyiri&color=000000&style=flat&logo=codepen"  />
 </a>
+<a href="https://codepen.io/bmunyiri">
+    <img alt="link to my CodePen" src="https://codesandbox.io/s/east-africa-tourist-hub-eed5g2"  />
+</a>
 
 <br/><br/>
 
