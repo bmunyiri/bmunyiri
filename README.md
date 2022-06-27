@@ -24,12 +24,34 @@
 - - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
-- 📜 Portfolio - React Js Projects
+<br/><br/>
+- 📜 Portfolio - React Js Projects on Code SandBox
 - - 📜 React Project: Conditional Rendering - Boxes: [Code SandBox](https://codesandbox.io/s/boxes-3duycn)
 - - 📜 React Project: Digital Business Card: [Code SandBox](https://codesandbox.io/s/digital-business-cardj-2l1w4j)
 - - 📜 React Project: Data Mapping - Most Expensive Cars In The World: [Code SandBox](https://codesandbox.io/s/v1j2v2?file=/src/App.js)
 - - 📜 React Project: Rendering a Component - Scrimba React Course Project 1: [Code SandBox](https://codesandbox.io/s/iim1xh)
-- 📜 Portfolio - Projects On Github
+<br/><br/>
+- 📜 Portfolio - React Js Projects On Github
+- - 📜 React Project: Demonstrate:-'Changing useState + MUi' Title:-'East Africa Tourist Hub'
+(https://github.com/bmunyiri/EastAfricaTouristHub)
+
+- - 📜 React Project: Demonstrate:-'Forms + Events' Title:-'Simple-Form'
+https://codesandbox.io/s/github/bmunyiri/React-Sample-Simple-Form
+
+- - 📜 React Project: Demonstrate:-'Forms' Title:-'Contact-Manager'
+https://codesandbox.io/s/github/bmunyiri/Contact-Manager
+
+- - 📜 React Project: Demonstrate:-'Changing useState' Title:-'Rendering Of Boxes'
+(https://github.com/bmunyiri/React-Optional-Rendering-Of-Boxes)
+
+- - 📜 React Project: Demonstrate:-'Data Mapping From File' Title:-'Business-Card':
+(https://github.com/bmunyiri/React-Digital-Business-Card)
+
+- - 📜 React Project: Demonstrate:-'Data Mapping From File' Title:-'ExpensiveCars':
+(https://github.com/bmunyiri/DataMapping-ExpensiveCars)
+
+- - 📜 React Project: Demonstrate:-'Simple Counter + useSate' Title:-'Number Of People in The Room':
+(https://github.com/bmunyiri/React-UseState-NumberOfPeopleinTheRoom)
 
 <br/><br/>
 
@@ -51,9 +73,6 @@
 </a>
 <a href="https://codepen.io/bmunyiri">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/bmunyiri&color=000000&style=flat&logo=codepen"  />
-</a>
-<a href="https://codepen.io/bmunyiri">
-    <img alt="link to my CodePen" src="https://codesandbox.io/s/east-africa-tourist-hub-eed5g2"  />
 </a>
 
 <br/><br/>
