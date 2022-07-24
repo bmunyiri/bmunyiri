@@ -116,7 +116,7 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
    <br />
       <br />
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="50"/>&nbsp;
