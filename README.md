@@ -118,10 +118,6 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="50"/>&nbsp;
    <br />
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
 <br/><br/>
 
 ### 🚴‍♂️ Visitors  Profile
