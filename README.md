@@ -14,8 +14,10 @@
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...Life is Good
-            ☕
 
+
+            ☕
+      
 <br/><br/>
 ### View Some Of My Work 👀
 - 📜 Portfolio - WordPress: 
