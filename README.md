@@ -3,8 +3,10 @@
 
 
 
-### Hi there 👋 My names are 💻Bernard N Munyiri☕
+### Hi there 👋 
+### My names are Bernard N Munyiri
 
+            💻
 - 🎆 I’m currently working on ...WordPress Site
 - 📚 I’m currently learning ...React JS
 - 🔗 I’m looking to collaborate on ...A React Project
@@ -12,6 +14,7 @@
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...Life is Good
+            ☕
 
 <br/><br/>
 ### View Some Of My Work 👀
