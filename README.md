@@ -63,7 +63,6 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
 
 - - 📜 React Project: Demonstrate:-'Simple Counter + useSate' Title:-'Number Of People in The Room':
 (https://github.com/bmunyiri/React-UseState-NumberOfPeopleinTheRoom)
-
 <br/><br/>
 - 📜 Portfolio - React Js Projects On Netlify
 
@@ -73,7 +72,7 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
 - - 📜 React Project: Demonstrate:-'useContex Hook to move the state up' Title:-'Simple Reactjs Counter'
 (https://simple-reactjs-counter.netlify.app)
 
-- - 📜 React Project: Demonstrate:-'Developed with React / Typescript. Demonstrates the use of a typed language + use of Interface to define Props' Title:-'Worlds Most Famous People'
+- - 📜 React Project:'Developed with React / Typescript. Demonstrates the use of a typed language + use of Interface to define Props' Title:-'Worlds Most Famous People'
 (https://worlds-most-famous-people.netlify.app)
 
 <br/><br/>
