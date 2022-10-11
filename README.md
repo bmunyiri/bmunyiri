@@ -65,6 +65,18 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
 (https://github.com/bmunyiri/React-UseState-NumberOfPeopleinTheRoom)
 
 <br/><br/>
+- 📜 Portfolio - React Js Projects On Netlify
+
+- - 📜 React Project: Demonstrate:-'Example of a Controlled Input Form in Reactjs' Title:-'Controlled Input Form in Reactjs'
+(https://controlled-input-form-reactjs.netlify.app)
+
+- - 📜 React Project: Demonstrate:-'useContex Hook to move the state up' Title:-'Simple Reactjs Counter'
+(https://simple-reactjs-counter.netlify.app)
+
+- - 📜 React Project: Demonstrate:-'Developed with React / Typescript. Demonstrates the use of a typed language + use of Interface to define Props' Title:-'Worlds Most Famous People'
+(https://worlds-most-famous-people.netlify.app)
+
+<br/><br/>
 
 ### 📭 How to reach me :
 
