@@ -37,6 +37,12 @@
 <br/><br/>
 - 📜 Portfolio - React Js Projects On Github
 
+- - 📜 React Project: Demonstrate:-'Example of a Controlled Input Form in Reactjs' Title:-'Controlled Input Form in Reactjs'
+(https://github.com/bmunyiri/Forms)
+
+- - 📜 React Project: Demonstrate:-'useContex Hook to move the state up' Title:-'Simple Reactjs Counter'
+(https://github.com/bmunyiri/Simple-Reactjs-Counter)
+
 - - 📜 React Project: Demonstrate:-'Changing useState + MUi' Title:-'East Africa Tourist Hub'
 (https://github.com/bmunyiri/EastAfricaTouristHub)
 
