@@ -136,6 +136,8 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+   
      <br />
         <br />
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
@@ -151,7 +153,7 @@ https://codesandbox.io/s/github/bmunyiri/Contact-Manager
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="50" height="50"/>&nbsp;
-    <img src="  https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
   
 <br/><br/>
 
