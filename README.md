@@ -43,36 +43,8 @@
 <br/><br/>
 - 📜 Portfolio - React Js Projects On Github (https://github.com/bmunyiri?tab=repositories)
 
-- - 📜 React Project: Demonstrate:-'Simple React Signup Form made with Formik, and validation done with Yup.' Title:-'Formik Form in Reactjs'(https://github.com/bmunyiri/formik-form)
-
-- - 📜 React Project: Demonstrate:-'Example of a Controlled Input Form in Reactjs' Title:-'Controlled Input Form in Reactjs'
-(https://github.com/bmunyiri/Forms)
-
-- - 📜 React Project: Demonstrate:-'useContex Hook to move the state up' Title:-'Simple Reactjs Counter'
-(https://github.com/bmunyiri/Simple-Reactjs-Counter)
-
-- - 📜 React Project: Demonstrate:-'Changing useState + MUi' Title:-'East Africa Tourist Hub'
-(https://github.com/bmunyiri/EastAfricaTouristHub)
-
-- - 📜 React Project: Demonstrate:-'Forms + Events' Title:-'Simple-Form'
-https://codesandbox.io/s/github/bmunyiri/React-Sample-Simple-Form
-
-- - 📜 React Project: Demonstrate:-'Forms' Title:-'Contact-Manager'
-https://codesandbox.io/s/github/bmunyiri/Contact-Manager
-
-- - 📜 React Project: Demonstrate:-'Changing useState' Title:-'Rendering Of Boxes'
-(https://github.com/bmunyiri/React-Optional-Rendering-Of-Boxes)
-
-- - 📜 React Project: Demonstrate:-'Data Mapping From File' Title:-'Business-Card':
-(https://github.com/bmunyiri/React-Digital-Business-Card)
-
-- - 📜 React Project: Demonstrate:-'Data Mapping From File' Title:-'ExpensiveCars':
-(https://github.com/bmunyiri/DataMapping-ExpensiveCars)
-
-- - 📜 React Project: Demonstrate:-'Simple Counter + useSate' Title:-'Number Of People in The Room':
-(https://github.com/bmunyiri/React-UseState-NumberOfPeopleinTheRoom)
 <br/><br/>
-- 📜 Portfolio - React Js Projects On Netlify
+- 📜 Portfolio - React Js Projects On Netlify (https://app.netlify.com/teams/bmunyiri/sites)
 
 - - 📜 React Project: Demonstrate:-'Simple React Signup Form made with Formik, and validation done with Yup.:-'Formik Form in Reactjs'(https://react-formik-yup-form.netlify.app)
 
