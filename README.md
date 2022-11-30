@@ -44,7 +44,7 @@
 - 📜 Portfolio - React Js Projects On Github (https://github.com/bmunyiri?tab=repositories)
 
 <br/><br/>
-- 📜 Portfolio - React Js Projects On Netlify (https://app.netlify.com/teams/bmunyiri/sites)
+- 📜 Portfolio - React Js Projects On Netlify [Click Here](https://app.netlify.com/teams/bmunyiri/sites)
 
 <br/><br/>
 
