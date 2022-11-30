@@ -17,12 +17,13 @@
 
            ☕
      
-### View Some Of My Work 👀
+### 📺 View Some Of My Work 👀
 
 - 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
 - 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
 - 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
 <br/>
+
 - 📜 Portfolio - WordPress: 
 - - 📜 WordPress Based Website:[Kenya Web Professionals](https://kenyawebprofessionals.com)
 - - 📜 WordPress Based Website: [Aqua Systems Kenya](https://aquasystemskenya.co.ke)
@@ -43,19 +44,6 @@
 
 <br/><br/>
 
-### 📺 Where to see my code 
-
-<a href="https://github.com/bmunyiri">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/bmunyiri?style=social&label=@bmunyiri">
-</a>
-<a href="https://codesandbox.io/u/bmunyiri">
-    <img alt="link to my CodePen" src="https://img.shields.io/badge/CodeSandBox-bmunyiri-lightgrey"  />
-</a>
-<a href="https://codepen.io/bmunyiri">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/bmunyiri&color=000000&style=flat&logo=codepen"  />
-</a>
-
-<br/><br/>
 
 ### 🍹 I am social :
 
