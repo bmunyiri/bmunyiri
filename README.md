@@ -41,10 +41,10 @@
 - - 📜 React Project: Data Mapping - Most Expensive Cars In The World: [Code SandBox](https://codesandbox.io/s/v1j2v2?file=/src/App.js)
 - - 📜 React Project: Rendering a Component - Scrimba React Course Project 1: [Code SandBox](https://codesandbox.io/s/iim1xh)
 <br/><br/>
-- 📜 Portfolio - React Js Projects On Github (https://github.com/bmunyiri?tab=repositories)
+- 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
 
 <br/><br/>
-- 📜 Portfolio - React Js Projects On Netlify [Click Here](https://app.netlify.com/teams/bmunyiri/sites)
+- 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
 
 <br/><br/>
 
