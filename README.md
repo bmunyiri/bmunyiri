@@ -17,8 +17,12 @@
 
            ☕
      
-<br/><br/>
 ### View Some Of My Work 👀
+
+- 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
+- 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
+- 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
+<br/>
 - 📜 Portfolio - WordPress: 
 - - 📜 WordPress Based Website:[Kenya Web Professionals](https://kenyawebprofessionals.com)
 - - 📜 WordPress Based Website: [Aqua Systems Kenya](https://aquasystemskenya.co.ke)
@@ -29,13 +33,6 @@
 - - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
-- 
-<br/><br/>
-- 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
-<br/>
-- 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
-<br/>
-- 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
 <br/>
 
 ### 📭 How to reach me :
