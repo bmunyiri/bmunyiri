@@ -16,9 +16,7 @@
 - 😎 Fun fact: ...Life is Good
 
            ☕
-
-
-      
+     
 <br/><br/>
 ### View Some Of My Work 👀
 - 📜 Portfolio - WordPress: 
@@ -32,21 +30,12 @@
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
 <br/><br/>
-- 📜 Portfolio - React Js Projects on Code SandBox
-- - 📜 React Project: Demonstrate:-'Multipule useState + useContext' Title:-'Guess the Flag'
-(https://codesandbox.io/s/guess-the-flags-rzi34r)
--  - 📜 React Project: BrowserRouter implementation - Boxes: [Code SandBox](https://codesandbox.io/s/matumbo-african-dishes-1-uolycb)
-- - 📜 React Project: Conditional Rendering - Boxes: [Code SandBox](https://codesandbox.io/s/boxes-3duycn)
-- - 📜 React Project: Digital Business Card: [Code SandBox](https://codesandbox.io/s/digital-business-cardj-2l1w4j)
-- - 📜 React Project: Data Mapping - Most Expensive Cars In The World: [Code SandBox](https://codesandbox.io/s/v1j2v2?file=/src/App.js)
-- - 📜 React Project: Rendering a Component - Scrimba React Course Project 1: [Code SandBox](https://codesandbox.io/s/iim1xh)
-<br/><br/>
+- 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
+<br/>
 - 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
-
-<br/><br/>
+<br/>
 - 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
-
-<br/><br/>
+<br/>
 
 ### 📭 How to reach me :
 
