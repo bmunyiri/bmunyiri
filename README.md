@@ -29,6 +29,7 @@
 - - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
+- 
 <br/><br/>
 - 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
 <br/>
