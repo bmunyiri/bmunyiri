@@ -8,9 +8,9 @@
 
             💻
 - 🎆 I’m currently working on ...WordPress Site
-- 📚 I’m currently learning ...React JS
+- 📚 I’m currently learning ...MERN
 - 🔗 I’m looking to collaborate on ...A React Project
-- 🙏 I’m looking for help with ...React
+- 🙏 I’m looking for help with ...
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...Life is Good
