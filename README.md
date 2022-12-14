@@ -35,34 +35,8 @@
 - - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
-<br/>
-
-### 📭 How to reach me :
-
-<a href="mailto:bernard.munyiri@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=bernard.munyiri@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
 
 <br/><br/>
-
-
-### 🍹 I am social :
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kenyawebpro) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kenyawebpro) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernard-njiru-munyiri) 
-
-<a href="https://t.me/Bernard">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@Bernard&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
-</a>
-<a href="https://www.instagram.com/kenyawebprofessionals">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@kenyawebprofessionals&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
-</a>
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtdxACSWwzAU3VcntqyX8QQ)
-
-<br/><br/>
-
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
 
@@ -304,3 +278,25 @@
 
 ![Metrics](https://metrics.lecoq.io/bmunyiri?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)
 
+<br/><br/>
+
+### 🍹 I am social :
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kenyawebpro) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kenyawebpro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernard-njiru-munyiri) 
+
+<a href="https://t.me/Bernard">
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@Bernard&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+</a>
+<a href="https://www.instagram.com/kenyawebprofessionals">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@kenyawebprofessionals&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtdxACSWwzAU3VcntqyX8QQ)
+
+<br/><br/>
+
+   #### 📫 How to reach me:
+  
+ <a href="mailto:bernard.munyiri@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/https://github.com/bmunyiri/bmunyiri/blob/main/www.linkedin.com/in/bernard-njiru-munyiri/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/kenyawebpro/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/kenyawebpro)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kenyawebprofessionals/) 
