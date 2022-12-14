@@ -10,7 +10,7 @@
 - 🎆 I’m currently working on ...WordPress Site
 - 📚 I’m currently learning ...MERN
 - 🔗 I’m looking to collaborate on ...A React Project
-- 🙏 I’m looking for help with ...
+- 🙏 I’m looking for help with ... Data Structures and Algorithms 😭
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...Life is Good
