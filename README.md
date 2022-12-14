@@ -13,7 +13,7 @@
 - 🙏 I’m looking for help with ... Data Structures and Algorithms 😭
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
-- 😎 Fun fact: ...Life is Good
+- 😎 Fun fact: ...always learning/Life is Good
 
            ☕
      
