@@ -14,6 +14,7 @@
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...always learning/Life is Good
+- :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/bernard-njiru-munyiri)** 
 
            ☕
      
