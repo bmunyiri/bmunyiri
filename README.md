@@ -63,37 +63,237 @@
 
 <br/><br/>
 
+
 ### :hammer_and_wrench: Languages, Technologies and Tools :
 
-    
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
-         <br />
-        <br />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress-" alt="Wordpress-" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/>&nbsp;
-  <br />
-        <br />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp;
-   <br />
-      <br />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Figma" alt="Jest" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a >
+        <img src="./mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="./express-original.svg" width="60" height="60" alt="express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="./react-original.svg" width="60" height="60" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="./nodejs-original.svg" width="60" height="60" alt="Nodejs" />
+      </a>
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img  src="./graphql-plain.svg" width="60" height="60" alt="Graphql"  />     
+      </a>
+      <br>Graphql
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="./Moongose.png" width="60" height="60" alt="Moongose"   />
+      </a>
+      <br>Moongose
+    </td>
+        <td align="center" width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="60" height="60" alt="materialui"   />
+      </a>
+      <br>Material-UI
+    </td>
+             <td align="center" width="96">
+      <a >
+        <img src="./jest-plain.svg" width="60" height="60" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+      <td align="center" width="96">
+      <a 
+        <img src="#" width="60" height=60" alt="" />
+      </a>
+      <br>
+    </td>        
+  </tr>
+     <tr>
+    <td align="center" width="96"> 
+      <a  >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+     <td align="center"  width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60" height="60" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>       
+    <td align="center"  width="96">
+      <a >
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="60" height="60" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
+          </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60" height="60" alt="php" />
+            </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="./wordpress-plain.svg" width="60" height="60" alt="wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="./woocommerce-plain.svg" width="60" height="60" alt="woocommerce"/>
+      </a>
+      <br>WooCommerce
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="./elementor.png" width="60" height="60" alt="elementor" />
+      </a>
+      <br>Elementor
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a  >
+        <img src="./python-original.svg" width="60" height="60" alt="python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="./anaconda-original.svg" width="60" height="60" alt="Anaconda" />
+      </a>
+      <br>Anaconda
+    </td>
+     <td align="center"  width="96">
+      <a >
+        <img src="./jupyter-original-wordmark.svg" width="60" height="60" alt="jupyter" />
+      </a>
+      <br>Jupyter
+    </td>       
+    <td align="center"  width="96">
+      <a >
+        <img src="pandas-original.svg" width="60" height="60" alt="pandas" />
+      </a>
+      <br>Pandas
+    </td>
+        <td align="center" width="96">
+      <a >
+        <img />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a >
+        <img  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img  />
+      </a>
+      <br>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="96"> 
+      <a  >
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60" height="60" alt="VSCode" />
+      </a>
+      <br>VS-Code
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+     <td align="center"  width="96">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60" height="60" alt="Github" />
+      </a>
+      <br>Github
+    </td>       
+    <td align="center"  width="96">
+      <a >
+        <img src="git-original.svg" width="60" height="60" alt="git" />
+      </a>
+      <br>Git
+    </td>
+        <td align="center" width="96">
+      <a >
+        <img />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a >
+        <img  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a  >
+        <img  />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
+
   
 <br/><br/>
 
@@ -104,119 +304,3 @@
 
 ![Metrics](https://metrics.lecoq.io/bmunyiri?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)
 
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./mongodb-original.svg" width="60" height="60" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./express-original.svg" width="60" height="60" alt="express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./react-original.svg" width="60" height="60" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./nodejs-original.svg" width="60" height="60" alt="Nodejs" />
-      </a>
-      <br>Nodejs
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img  src="./graphql-plain.svg" width="60" height="60" alt="Graphql"  />     
-      </a>
-      <br>Graphql
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img   />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img  />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img   />
-      </a>
-      <br>
-    </td>
-      <td align="center" width="96">
-      <a href="#"
-        <img src="#" width="55" height=55" alt="" />
-      </a>
-      <br>
-    </td>        
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-  </tr>
-</table>
