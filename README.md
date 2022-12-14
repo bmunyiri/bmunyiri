@@ -103,3 +103,120 @@
 <br/><br/>
 
 ![Metrics](https://metrics.lecoq.io/bmunyiri?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./express-original.svg" width="60" height="60" alt="express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./react-original.svg" width="60" height="60" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./nodejs-original.svg" width="60" height="60" alt="Nodejs" />
+      </a>
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img  src="./graphql-plain.svg" width="60" height="60" alt="Graphql"  />     
+      </a>
+      <br>Graphql
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img   />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img   />
+      </a>
+      <br>
+    </td>
+      <td align="center" width="96">
+      <a href="#"
+        <img src="#" width="55" height=55" alt="" />
+      </a>
+      <br>
+    </td>        
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
