@@ -7,13 +7,13 @@
 ### My names are Bernard N Munyiri
 
             💻
-- 🎆 I’m currently working on ...WordPress Site
-- 📚 I’m currently learning ...MERN
+- 🎆 I’m currently ... Looking for front end employment opportunities
+- 📚 I’m currently learning ... MERN
 - 🔗 I’m looking to collaborate on ...A React Project
 - 🙏 I’m looking for help with ... Data Structures and Algorithms 😭
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
-- 😎 Fun fact: ...always learning/Life is Good
+- 😎 Fun fact: ...always learning / Life is Good
 - :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/bernard-njiru-munyiri)** 
 
            ☕
