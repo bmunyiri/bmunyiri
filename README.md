@@ -17,8 +17,10 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/bernard-njiru-munyiri)** 
 
            ☕
+               
+   
      
-### 📺 View Some Of My Work 👀
+### 👀 View Some Of My Projects 📺
 
 - 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
 - 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
@@ -36,6 +38,43 @@
 - - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
 - - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
 
+<br/><br/>
+<!-- start work experience section -->
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://www.kenyawebprofessionals.com/">Developer at Kenya Web Professionals</a> </b></td>
+      <td>WordPress Developer</td>
+      <td>July 2012 - Present</td>
+    </tr>
+  	<tr>
+      <td><b><a href="https://creativeoptionsmd.com/">Weekends Residential Counselor at Creative Options Inc</a> </b></td>
+      <td>Group Home Manager on Weekends</td>
+      <td>February 2002 - December 2011</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://bmsi.org/">Staff Accountant at Baltimore Medical Systems</a> </b></td>
+      <td>General Ledger Reconcilaitions. Bank Reconcilations. Generation of daily reports. Track budgets and variances. Monthly financial reports. Using MS Navision and other softwre.</td>
+      <td>December 2006 - January 2009</td>
+    </tr>
+     <tr>
+      <td><b><a href="https://www.capitalfm.co.ke/news/">Divisional Accountant at Capital Group</a></b></td>
+      <td>Accounting functions up to final reports for Capital Pagers and Capital Real-Time.</td>
+      <td>Oct 2000 - January 2002</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->  
 <br/><br/>
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
