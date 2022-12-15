@@ -75,6 +75,33 @@
 </table>
 </details>
 <!-- end work experience section -->  
+<!-- start work project section -->
+<details>
+<summary><b> Some Formal Schooling :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>School Name</th>
+      <th>Program Enrolled</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.towson.edu/'>Towson University</a></td>
+      <td>Accounting Major </td>
+      <td>The accounting major provides the necessary accounting courses to prepare students for the CPA exam and public accounting careers in auditing, tax accounting, cost accounting or managerial accounting.</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.ccbcmd.edu/'>Community College of Baltimore County</a></td>
+      <td>Applied Science</td>
+      <td>An AAS degree often provides a scientific or technical education to prepare you to enter the workforce after graduation.</td>
+    </tr>
+  
+  </tbody>
+</table>
+</details>
+<!-- end work project section -->
 <br/><br/>
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
