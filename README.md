@@ -176,6 +176,37 @@ Learn the basics of how to set up Express, create a server, and build an applica
 </table>
 </details>
 <!-- end work project section -->
+<!-- start work project section -->
+<details>
+<summary><b>Certifications freeCodeCamp :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>freeCodeCamp Learning Certificate</th>
+      <th>Program Enrolled</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+                <tr>
+      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/front-end-development-libraries'>Front End Development Libraries</a></td>
+      <td>Front End Development Libraries</td>
+      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/javascript-algorithms-and-data-structures'>JavaScript Algorithms and Data Structures</a></td>
+      <td>Front End Development Libraries</td>
+      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/responsive-web-design'</a>Responsive Web Design</td>
+      <td>Responsive Web Design</td>
+      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
+    </tr>
+    </tbody>
+</table>
+</details>
+<!-- end work project section -->
 <br/><br/>
 
 
