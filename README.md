@@ -409,9 +409,9 @@ Learn the basics of how to set up Express, create a server, and build an applica
     </td>
         <td align="center" width="96">
       <a >
-        <img />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
       </a>
-      <br>
+      <br>Slack
     </td>
     <td align="center"  width="96">
       <a >
