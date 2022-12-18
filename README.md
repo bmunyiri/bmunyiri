@@ -10,7 +10,7 @@
 - 🎆 I’m currently ... Looking for front end employment opportunities
 - 📚 I’m currently learning ... MERN
 - 🔗 I’m looking to collaborate on ...A React Project
-- 🙏 I’m looking for help with ... Data Structures and Algorithms 😭
+- 🙏 I’m looking for help with ... 
 - 😊 Ask me about ...Anything
 - 👴 Pronouns: ...Him/He
 - 😎 Fun fact: ...always learning / Life is Good
