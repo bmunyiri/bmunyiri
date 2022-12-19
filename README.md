@@ -25,20 +25,9 @@
 - 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
 - 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
 - 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
-<br/>
-
-- 📜 Portfolio - WordPress: 
-- - 📜 WordPress Based Website:[Kenya Web Professionals](https://kenyawebprofessionals.com)
-- - 📜 WordPress Based Website: [Aqua Systems Kenya](https://aquasystemskenya.co.ke)
-- - 📜 WordPress Based Website: [iNFiNiTY Baisikeli Ltd](https://infinity.ke)
-- - 📜 WordPress Based Website: [My lil Store Kenya](http://mylilstorekenya.com)
-- - 📜 WordPress Based Website: [Synergy International ICCT](http://www.synergyicct.org)
-- - 📜 WordPress Based Website: [Manufacturers & Suppliers (K) Ltd](https://mslabrasives.com)
-- - 📜 WordPress Based Website: [MacDavidson Consulting Group Limited](http://www.macdavidson.co.ke)
-- - 📜 WordPress Based Website: [Safes and Office Security Ltd](http://safesandofficesecurity.com)
-- - 📜 WordPress Based Website: [Stoic The Award-Winning Company](http://stoiccarcentre.com)
 
 <br/><br/>
+
 <!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
@@ -207,8 +196,60 @@ Learn the basics of how to set up Express, create a server, and build an applica
 </table>
 </details>
 <!-- end work project section -->
-<br/><br/>
+<!-- start work experience section -->
+<details>
+<summary><b> WordPress Portfolio :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Company Name</th>
+      <th>Website Link</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+                <td>Kenya Web Professionals</td>
+      <td><a href='https://kenyawebprofessionals.com'>Kenya Web Professionals</a></td>
+    </tr>
+                 <tr>
+                             <td>Aqua Systems Kenya</td>
+   <td><a href='https://aquasystemskenya.co.ke'>Aqua Systems Kenya</a></td>
+    </tr>
+                 <tr>
+                             <td>My lil Store Kenya </td>
+    <td><a href='http://mylilstorekenya.com'>My lil Store Kenya</a></td>
+    </tr>
+              <tr>
+                          <td>Safes and Office Security Ltd</td>
+                        <td><a href='http://safesandofficesecurity.com'>Safes and Office Security Ltd</a></td>
+              </tr>
+                <tr>
+                          <td>Synergy International ICCT</td>
+                          <td><a href='http://www.synergyicct.org'>Synergy International ICCT</a></td>
+              </tr>
+                <tr>
+                          <td>Manufacturers & Suppliers (K) Ltd</td>
+                        <td><a href='https://mslabrasives.com'>Manufacturers & Suppliers (K) Ltd</a></td>
+              </tr>
+                <tr>
+                          <td>iNFiNiTY Baisikeli Ltd</td>
+                         <td><a href='https://infinity.ke'>iNFiNiTY Baisikeli Ltd</a></td>
+              </tr>
+                <tr>
+                          <td>MacDavidson Consulting Group Limited</td>
+                          <td><a href='http://www.macdavidson.co.ke'>MacDavidson Consulting Group Limited</a></td>
+              </tr>
+                <tr>
+                          <td>Stoic The Award-Winning Company</td>
+                           <td><a href='http://stoiccarcentre.com'>Stoic The Award-Winning Company</a></td>
+              </tr>
+    </tbody>
+</table>
+</details>
+<!-- end work experience section -->  
 
+<br/>
+<br/>
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
 
