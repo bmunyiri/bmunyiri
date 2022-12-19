@@ -1,6 +1,6 @@
             
         "Show me your constructor, and I'll tell you what kind of object you are." 
-
+<base target="_blank">
 
 
 ### Hi there 👋 
