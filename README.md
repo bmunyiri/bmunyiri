@@ -106,12 +106,19 @@
     </tr>
   </thead>
   <tbody>
+               <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/7952ae5dc06fff594eb49e0d26f10fd20aaa842e9d5a0340a12159f28d451834?trk=share_certificate #telecommuting #virtualoffice.'>Remote Work Foundations</a></td>
+      <td>Remote Work Foundations</td>
+      <td>When you unlock the power of remote work, you can ditch your commute, work where you focus best, and spend more time doing things you love, all while advancing your career. In this course, coach Mike Gutman from FlexJobs shows how to use today's cloud-based communication and collaboration tools to get work done from anywhere, while remaining connected to your organization. He reveals how you can create a productive work environment at home or around town by structuring your day correctly and avoiding distractions. He also explains how to build rapport with remote colleagues so you feel like you're part of the team and succeed in your remote career. Watch this course to learn how to work productively, when and where you want, and achieve the freedom and flexibility you need for a more balanced life.
+
+Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.</td>
+    </tr>
     <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/297ed42265b3be5edbebf0787e049d0e79677ed52505193f69d173978dc0beab?trk=share_certificate%20#remoteteammanagement.'>Managing Virtual Teams</a></td>
       <td>Managing Virtual Teams</td>
       <td>Working remotely has been on the rise for many years now, with research showing that hiring managers expect nearly half of all their workers to be working remotely over the next decade. While many trends feed into this way of organizing work, managing the work effectively will be key to the success of organizations globally. In this course, instructor Phil Gold provides managers with a clear approach for getting the most out of their remote teams. He zeros in on the key factors that will ensure productivity, engagement, and growth, as well as a manager’s role in building trust, removing roadblocks, nurturing connections with team members, and setting clear goals.
 
-Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur..</td>
+Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.</td>
     </tr>
     <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/94677df6f9d7a9fe83932d20a2366aa94bbf90fc73205498c2ee79cc679250d0?trk=share_certificate%20#php.'>PHP Essential Training</a></td>
