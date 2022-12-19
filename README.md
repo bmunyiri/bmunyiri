@@ -73,6 +73,7 @@
       <th>School Name</th>
       <th>Program Enrolled</th>
       <th>Description</th>
+                <th>Duration</th>
     </tr>
   </thead>
   <tbody>
@@ -80,11 +81,13 @@
       <td><a href='https://www.towson.edu/'>Towson University</a></td>
       <td>Accounting Major </td>
       <td>The accounting major provides the necessary accounting courses to prepare students for the CPA exam and public accounting careers in auditing, tax accounting, cost accounting or managerial accounting.</td>
+                <td>Fall 2007 - Spring 2011</td>
     </tr>
     <tr>
       <td><a href='https://www.ccbcmd.edu/'>Community College of Baltimore County</a></td>
       <td>Applied Science</td>
       <td>An AAS degree often provides a scientific or technical education to prepare you to enter the workforce after graduation.</td>
+                  <td>Spring 2002 - Spring 2006</td>
     </tr>
     </tbody>
 </table>
