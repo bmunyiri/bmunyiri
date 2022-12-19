@@ -241,7 +241,7 @@ Learn the basics of how to set up Express, create a server, and build an applica
               </tr>
                 <tr>
                           <td>Stoic The Award-Winning Company</td>
-                           <td><a href='http://stoiccarcentre.com' target='_blank' >Stoic The Award-Winning Company</a></td>
+                           <td><a href='http://stoiccarcentre.com' {:target="_blank" rel="noopener"} >Stoic The Award-Winning Company</a></td>
               </tr>
     </tbody>
 </table>
