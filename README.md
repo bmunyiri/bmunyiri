@@ -106,6 +106,11 @@
     </tr>
   </thead>
   <tbody>
+                  <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/1532185e8744eafafdc555bbf3cbb7133f37850e4d2347cb73e65a85d535f866?trk=share_certificate #jobsearchstrategies.'>Finding a Remote Job</a></td>
+      <td>Finding a Remote Job</td>
+      <td>Do you want a remote job? Do you want more job flexibility? Do you want to be able to work from anywhere? If you are looking for a job that aligns with your life, then a remote job might be right for you. Mike Gutman, remote work consultant and former marketing director at FlexJobs, explains how the remote job market has shifted and how you can position yourself to build a remote career. He goes over the pitfalls to avoid, how to build a remote-friendly resume and cover letter, regardless of your remote experience, and how to navigate the remote job search, application, and interview process. This course is designed to help you get your resume to the top of the stack, so you can land that next remote job and invest in your remote skills for the long haul.</td>
+    </tr>
                <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/7952ae5dc06fff594eb49e0d26f10fd20aaa842e9d5a0340a12159f28d451834?trk=share_certificate #telecommuting #virtualoffice.'>Remote Work Foundations</a></td>
       <td>Remote Work Foundations</td>
