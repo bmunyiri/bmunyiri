@@ -106,6 +106,11 @@
     </tr>
   </thead>
   <tbody>
+                 <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/f5f0839a64f16374effe2860ed7a54957426238f871725c02b2a055bf59f431f?trk=share_certificate #mongodb.'>Advanced MongoDB Code Challenges</a></td>
+      <td>Advanced MongoDB Code Challenges</td>
+      <td>MongoDB is one of the most popular nonrelational databases in the world. If you’re looking to build out your skill set, your best move may be to dive right in. In this approachable, hands-on course, instructor John Cokos leads intermediate to advanced users through a series of practical coding challenges to help you get the most out of MongoDB. Learn how to query or find using aggregation pipelines to process documents, sort and group records, shape your output, and create calculated fields. Along the way, you’ll build out your toolbox with the necessary skills to work with multiple documents and relationships.</td>
+    </tr>
                   <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/1532185e8744eafafdc555bbf3cbb7133f37850e4d2347cb73e65a85d535f866?trk=share_certificate #jobsearchstrategies.'>Finding a Remote Job</a></td>
       <td>Finding a Remote Job</td>
