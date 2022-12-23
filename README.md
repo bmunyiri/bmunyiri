@@ -105,8 +105,13 @@
       <th>Description</th>
     </tr>
   </thead>
-  <tbody>
-                     <tr>
+  <tbody>                <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/9cc0a0433fa4e89d0be4109ad249b8ff581df19e1b1ccaf1e53798f23d1dad8b?trk=share_certificate%20#xaas.'>Everything as a Service (XaaS) is the Future of Business</a></td>
+      <td>Everything as a Service (XaaS) is the Future of Business</td>
+      <td>The world of work is moving rapidly from on premises to online. Everything as a Service (XaaS)—a category of computing that allows individuals and organizations to easily acquire a variety of computing-related services over the internet—is fueling this digital transformation. Curious about how XaaS can help you compete in a rapidly evolving global marketplace? This course can help. Tune in to learn what XaaS is in business terms, how it can help your organization, and the skills and prerequisites you need to implement it.
+
+Instructor Jonathan Reichental begins by demystifying the origins of XaaS, as well as the most important as-a-service models, such as software as a service (SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS). He then lays out why XaaS needs to be part of any digital transformation strategy, as well as what to know before implementing it. Plus, he provides a case study that shows how XaaS is being used by real-world businesses.</td>
+    </tr>             <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/173402eb66ef13bf89cbc4e90ae0528f81251d0c7a730cd13fdc2ba6150397da?trk=share_certificate #mongodb.'>MongoDB Essential Training</a></td>
       <td>MongoDB Essential Training</td>
       <td>MongoDB is a NoSQL document database with an expressive and intuitive query language. While MongoDB is easy to get started with, there is more to using MongoDB than storing and retrieving JSON documents. In this course, Naomi Pentrel teaches MongoDB essentials, covering CRUD operations, aggregation pipelines, and drivers as well as advanced database features and database administration topics. If you’re looking for the knowledge to run MongoDB effectively in production, how to perform advanced queries, and how to administer databases, join Naomi in this course.</td>
