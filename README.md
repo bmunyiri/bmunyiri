@@ -106,7 +106,17 @@
     </tr>
   </thead>
   <tbody>
-                 <tr>
+                     <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/173402eb66ef13bf89cbc4e90ae0528f81251d0c7a730cd13fdc2ba6150397da?trk=share_certificate #mongodb.'>MongoDB Essential Training</a></td>
+      <td>MongoDB Essential Training</td>
+      <td>MongoDB is a NoSQL document database with an expressive and intuitive query language. While MongoDB is easy to get started with, there is more to using MongoDB than storing and retrieving JSON documents. In this course, Naomi Pentrel teaches MongoDB essentials, covering CRUD operations, aggregation pipelines, and drivers as well as advanced database features and database administration topics. If you’re looking for the knowledge to run MongoDB effectively in production, how to perform advanced queries, and how to administer databases, join Naomi in this course.</td>
+    </tr>  
+                <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
+      <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
+      <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.</td>
+    </tr>  
+              <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/f5f0839a64f16374effe2860ed7a54957426238f871725c02b2a055bf59f431f?trk=share_certificate #mongodb.'>Advanced MongoDB Code Challenges</a></td>
       <td>Advanced MongoDB Code Challenges</td>
       <td>MongoDB is one of the most popular nonrelational databases in the world. If you’re looking to build out your skill set, your best move may be to dive right in. In this approachable, hands-on course, instructor John Cokos leads intermediate to advanced users through a series of practical coding challenges to help you get the most out of MongoDB. Learn how to query or find using aggregation pipelines to process documents, sort and group records, shape your output, and create calculated fields. Along the way, you’ll build out your toolbox with the necessary skills to work with multiple documents and relationships.</td>
