@@ -105,7 +105,11 @@
       <th>Description</th>
     </tr>
   </thead>
-  <tbody>                <tr>
+  <tbody>           <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/ee9e0029db5e7f5c631a4af60bfa7092991cee28bb28da495ec3682b406aa5bf?trk=share_certificate #worklifebalance #careermanagement.'>Building a Flexible Career</a></td>
+      <td>Building a Flexible Career</td>
+      <td>Do you want to work from home, adopt a more flexible schedule, or transition to a freelance role? Flexible work options for career-oriented professionals have been rapidly expanding, but it's not always easy knowing how to break into the market. This course is designed to help you build a career that fits your life, whether that means finding a new job or asking for more flexibility in your current position. Brie Reynolds teaches you about the growing flexible job market and shows how to build skills to be successful. She also introduces strategies to convince your current employer to offer flexible work, and to find legitimate and professional flexible job listings. Plus, get resume and interview prep tips to get hired. If you want to break out of the 9 to 5 or find better balance between work and life, this is the course for you.</td>
+    </tr>         <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/9cc0a0433fa4e89d0be4109ad249b8ff581df19e1b1ccaf1e53798f23d1dad8b?trk=share_certificate%20#xaas.'>Everything as a Service (XaaS) is the Future of Business</a></td>
       <td>Everything as a Service (XaaS) is the Future of Business</td>
       <td>The world of work is moving rapidly from on premises to online. Everything as a Service (XaaS)—a category of computing that allows individuals and organizations to easily acquire a variety of computing-related services over the internet—is fueling this digital transformation. Curious about how XaaS can help you compete in a rapidly evolving global marketplace? This course can help. Tune in to learn what XaaS is in business terms, how it can help your organization, and the skills and prerequisites you need to implement it.
