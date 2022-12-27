@@ -107,10 +107,8 @@
   </thead>
   <tbody>  
                <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/69a164a271bd55932afcf454177703ae2e131b934221cd62f3832ec61e3eb94a?trk=share_certificate%20#informationmanagement.'>Course
-Information Management: Document Security</a></td>
-      <td>Course
-Information Management: Document Security</td>
+      <td><a href='https://www.linkedin.com/learning/certificates/69a164a271bd55932afcf454177703ae2e131b934221cd62f3832ec61e3eb94a?trk=share_certificate%20#informationmanagement.'>Information Management: Document Security</a></td>
+      <td>Information Management: Document Security</td>
       <td>Learn how to balance the need for cloud-based collaboration with document security best practices. In this course, Phil Gold explores how to structure an enterprise content management solution that ensures that documents are both collaborative and safe. Phil begins by reviewing basic server and security concepts, including different server structures, multilevel authentication layers, and data retention policies. He then discusses how to set security levels that don't negatively impact productivity, provide access for remote employees, and manage permissions. To wrap up, he shares best practices that can empower users to keep their documents secure.
                   Learning objectives:
 Identify the group of people to be notified when making a document policy or procedure change.
@@ -125,7 +123,7 @@ Explain the most common cause of data breaches</td>
       <td><a href='https://www.linkedin.com/learning/certificates/ee9e0029db5e7f5c631a4af60bfa7092991cee28bb28da495ec3682b406aa5bf?trk=share_certificate #worklifebalance #careermanagement.'>Building a Flexible Career</a></td>
       <td>Building a Flexible Career</td>
       <td>Do you want to work from home, adopt a more flexible schedule, or transition to a freelance role? Flexible work options for career-oriented professionals have been rapidly expanding, but it's not always easy knowing how to break into the market. This course is designed to help you build a career that fits your life, whether that means finding a new job or asking for more flexibility in your current position. Brie Reynolds teaches you about the growing flexible job market and shows how to build skills to be successful. She also introduces strategies to convince your current employer to offer flexible work, and to find legitimate and professional flexible job listings. Plus, get resume and interview prep tips to get hired. If you want to break out of the 9 to 5 or find better balance between work and life, this is the course for you.
-__Learning objectives:__
+Learning objectives:
 Recognize how common flexible jobs are in the economy.
 Identify what area is leading the economy in flexible jobs.
 Recall what you should do before talking with your manager about flexible work opportunities.
@@ -146,7 +144,14 @@ Instructor Jonathan Reichental begins by demystifying the origins of XaaS, as we
                 <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
       <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
-      <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.</td>
+      <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.
+Learning objectives:
+History of the four industrial revolutions
+What has changed in science and culture
+Core technologies: AI, Internet of Things, and more
+Impact of the fourth industrial revolution
+Taking action                            
+                            </td>
     </tr>  
               <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/f5f0839a64f16374effe2860ed7a54957426238f871725c02b2a055bf59f431f?trk=share_certificate #mongodb.'>Advanced MongoDB Code Challenges</a></td>
