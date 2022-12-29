@@ -106,6 +106,11 @@
     </tr>
   </thead>
   <tbody>  
+                        <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/213dad55764907ab6808e21b2530cda4dc8e20cda68bf7d5b568e9392af35c65?trk=share_certificate #reactjs.'>React.js Essential Training</a></td>
+      <td>React.js Essential Training</td>
+      <td>Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; use the Create React App to run tests, and more. By the end of the course, you'll be armed with the essentials of React.js and better prepared to build your own browser-based projects.</td>
+    </tr> 
                <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/69a164a271bd55932afcf454177703ae2e131b934221cd62f3832ec61e3eb94a?trk=share_certificate%20#informationmanagement.'>Information Management: Document Security</a></td>
       <td>Information Management: Document Security</td>
