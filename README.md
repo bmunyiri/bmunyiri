@@ -106,10 +106,7 @@
     </tr>
   </thead>
   <tbody>  
-      <tr><td><a href='https://www.linkedin.com/learning/certificates/f45b1aedd0cd04882623596972e7b32fbe60daa3e02d7485eda139a48f30810e?trk=share_certificate #progressivewebapplications #reactjs.'>React: Building Progressive Web Apps (PWAs)</a></td>
-      <td>React: Building Progressive Web Apps (PWAs)</td>
-      <td>Single-page applications may be smooth, quick, and effective—but they disappear when the network connection drops. Progressive web apps (PWAs) work offline, enhancing resilience and allowing developers create seamless user experiences that feel like native apps. Learn how to build your own PWAs using React, the flexible front-end framework, in this course with Eve Porcello. Eve explains how to build the PWA component, fetch data, use Lighthouse to validate your app, and add offline capabilities to keep your app running even when the internet is down. Plus, learn how to install your app locally with browsers like Chrome and Safari for iOS.</td>
-    </tr><tr>
+      <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/4d78cf21bbe9903181b52766e5d337a7f093111a236401503a79c523040d24e6?trk=share_certificate #ecmascript.'>Learning ECMAScript 6+ (ES6+)</a></td>
       <td>Learning ECMAScript 6+ (ES6+)</td>
       <td>ECMAScript—the standardized version of JavaScript—keeps getting more powerful. ES6 was a large leap forward, introducing features that changed how developers structure programs. But every year since there have been updates and additional improvements. This course helps you create modern JavaScript applications leveraging the most interesting and useful features in ES6+. Eve Porcello introduces the new keywords and operators that can help simplify code, as well as new ways of creating functions and objects. She also shows you how to write and search through template strings, create map objects to store key/value pairs, move values from one array to another—or one object to another—with the spread operator, build reusable classes, and use arrow functions and generators. Plus, learn how to handle asynchronous data and tasks with promises, fetch, and the async/await syntax.
@@ -122,6 +119,9 @@
       <td><a href='https://www.linkedin.com/learning/certificates/13ab0de284e485c55409eea5441662516d757305ae434ccce41936e6e7766574?trk=share_certificate #reacthooks.'>React Hooks</a></td>
       <td>React Hooks</td>
       <td>React Hooks embed logic into functions in new React applications. In this course, instructor Eve Porcello covers various styles of Hooks usage and ways to integrate them into your programming workflow. She tells you how Hooks came to be part of the library, then walks you through how to install Create React App. Eve covers how you can use the useState Hook to handle different types of state variables and work with component trees. The useEffect Hook can be used for several application side effects, whenever the state of the app changes. Eve teaches you how to work with the dependency array effect and fetch data with the useEffect Hook. Next, she explains several additional Hooks and steps through the process of creating custom Hooks. In conclusion, Eve shows you some different directions you can pursue to improve your knowledge of the React ecosystem.</td>
+    </tr><tr><td><a href='https://www.linkedin.com/learning/certificates/f45b1aedd0cd04882623596972e7b32fbe60daa3e02d7485eda139a48f30810e?trk=share_certificate #progressivewebapplications #reactjs.'>React: Building Progressive Web Apps (PWAs)</a></td>
+      <td>React: Building Progressive Web Apps (PWAs)</td>
+      <td>Single-page applications may be smooth, quick, and effective—but they disappear when the network connection drops. Progressive web apps (PWAs) work offline, enhancing resilience and allowing developers create seamless user experiences that feel like native apps. Learn how to build your own PWAs using React, the flexible front-end framework, in this course with Eve Porcello. Eve explains how to build the PWA component, fetch data, use Lighthouse to validate your app, and add offline capabilities to keep your app running even when the internet is down. Plus, learn how to install your app locally with browsers like Chrome and Safari for iOS.</td>
     </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/71613106ca8d9cde1de2c41c76344d7bc0cafdd3fc804ab747c489c2a0245545?trk=share_certificate #javascript.'>JavaScript: Patterns</a></td>
       <td>JavaScript: Patterns</td>
@@ -150,7 +150,33 @@ Learn the basics of how to set up Express, create a server, and build an applica
       <td><a href='https://www.linkedin.com/learning/certificates/94677df6f9d7a9fe83932d20a2366aa94bbf90fc73205498c2ee79cc679250d0?trk=share_certificate%20#php.'>PHP Essential Training</a></td>
       <td>PHP Essential Training</td>
       <td>PHP is a popular programming language that you can use to write simple code for web pages. If you have been using HTML to develop websites, learning PHP will allow you to create dynamic pages. In this course, learn the fundamentals of PHP. Kevin Skoglund covers concepts such as how to embed PHP code into an HTML page, and reviews the basic PHP data types such as strings and arrays. He also covers the different control structures in PHP, how to work with built-in PHP functions, and how to define your own custom functions.</td>
-    </tr>  <tr>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/692d646933c37f6e1c8f4f36d75365af14b61961f8ff3abf6c7da59ce3414fc3?trk=share_certificate #wordpress.'>WordPress 5 Essential Training</a></td>
+      <td>WordPress 5 Essential Training</td>
+      <td>WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed "Gutenberg."
+
+Note: This course covers WordPress 5. The training will be updated as WordPress evolves.</td>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
+      <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
+      <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.
+Learning objectives:
+History of the four industrial revolutions
+What has changed in science and culture
+Core technologies: AI, Internet of Things, and more
+Impact of the fourth industrial revolution
+Taking action  </td>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/3e37b9501fab768cc4b4b20fe21effe40fbb546a7a06889271d55783d201c773?trk=share_certificate #digitaltransformation.'>Digital Transformation</a></td>
+      <td>Digital Transformation</td>
+      <td>It seems as though everywhere you turn, digital transformation is happening. But what is digital, exactly, and what does it encompass? In this course, instructor Peter High helps business leaders better understand the definition of the term; the implications for people, processes, and technology; the risks of ignoring the digital transformation trend; and the rewards one can garner from riding this wave. Learn about the different stages of digital maturity, and the best ways to draw inspiration and insights from digital native companies like Google, Amazon, and Netflix, as well as from digital immigrant companies like FedEx and Domino's Pizza. He also covers the ideal backgrounds of digital leaders. Peter wraps up the course by explaining how to create a strategic digital transformation plan for your organization.</td>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/9cc0a0433fa4e89d0be4109ad249b8ff581df19e1b1ccaf1e53798f23d1dad8b?trk=share_certificate%20#xaas.'>Everything as a Service (XaaS) is the Future of Business</a></td>
+      <td>Everything as a Service (XaaS) is the Future of Business</td>
+      <td>The world of work is moving rapidly from on premises to online. Everything as a Service (XaaS)—a category of computing that allows individuals and organizations to easily acquire a variety of computing-related services over the internet—is fueling this digital transformation. Curious about how XaaS can help you compete in a rapidly evolving global marketplace? This course can help. Tune in to learn what XaaS is in business terms, how it can help your organization, and the skills and prerequisites you need to implement it.
+
+Instructor Jonathan Reichental begins by demystifying the origins of XaaS, as well as the most important as-a-service models, such as software as a service (SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS). He then lays out why XaaS needs to be part of any digital transformation strategy, as well as what to know before implementing it. Plus, he provides a case study that shows how XaaS is being used by real-world businesses.</td>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/69a164a271bd55932afcf454177703ae2e131b934221cd62f3832ec61e3eb94a?trk=share_certificate%20#informationmanagement.'>Information Management: Document Security</a></td>
       <td>Information Management: Document Security</td>
       <td>Learn how to balance the need for cloud-based collaboration with document security best practices. In this course, Phil Gold explores how to structure an enterprise content management solution that ensures that documents are both collaborative and safe. Phil begins by reviewing basic server and security concepts, including different server structures, multilevel authentication layers, and data retention policies. He then discusses how to set security levels that don't negatively impact productivity, provide access for remote employees, and manage permissions. To wrap up, he shares best practices that can empower users to keep their documents secure.
@@ -172,29 +198,8 @@ Recognize how common flexible jobs are in the economy.
 Identify what area is leading the economy in flexible jobs.
 Recall what you should do before talking with your manager about flexible work opportunities.
 Explain the problem with using the key phrase “work from home” when searching for jobs online.
-Identify when during the interview process you should explore the possibility of flexible work.
-                          </td>
-    </tr>         <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/9cc0a0433fa4e89d0be4109ad249b8ff581df19e1b1ccaf1e53798f23d1dad8b?trk=share_certificate%20#xaas.'>Everything as a Service (XaaS) is the Future of Business</a></td>
-      <td>Everything as a Service (XaaS) is the Future of Business</td>
-      <td>The world of work is moving rapidly from on premises to online. Everything as a Service (XaaS)—a category of computing that allows individuals and organizations to easily acquire a variety of computing-related services over the internet—is fueling this digital transformation. Curious about how XaaS can help you compete in a rapidly evolving global marketplace? This course can help. Tune in to learn what XaaS is in business terms, how it can help your organization, and the skills and prerequisites you need to implement it.
-
-Instructor Jonathan Reichental begins by demystifying the origins of XaaS, as well as the most important as-a-service models, such as software as a service (SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS). He then lays out why XaaS needs to be part of any digital transformation strategy, as well as what to know before implementing it. Plus, he provides a case study that shows how XaaS is being used by real-world businesses.</td>
-    </tr>            
-                <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
-      <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
-      <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.
-Learning objectives:
-History of the four industrial revolutions
-What has changed in science and culture
-Core technologies: AI, Internet of Things, and more
-Impact of the fourth industrial revolution
-Taking action                            
-                            </td>
-    </tr>  
- 
-                  <tr>
+Identify when during the interview process you should explore the possibility of flexible work.</td>
+</tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/1532185e8744eafafdc555bbf3cbb7133f37850e4d2347cb73e65a85d535f866?trk=share_certificate #jobsearchstrategies.'>Finding a Remote Job</a></td>
       <td>Finding a Remote Job</td>
       <td>Do you want a remote job? Do you want more job flexibility? Do you want to be able to work from anywhere? If you are looking for a job that aligns with your life, then a remote job might be right for you. Mike Gutman, remote work consultant and former marketing director at FlexJobs, explains how the remote job market has shifted and how you can position yourself to build a remote career. He goes over the pitfalls to avoid, how to build a remote-friendly resume and cover letter, regardless of your remote experience, and how to navigate the remote job search, application, and interview process. This course is designed to help you get your resume to the top of the stack, so you can land that next remote job and invest in your remote skills for the long haul.</td>
@@ -210,16 +215,6 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
       <td>Working remotely has been on the rise for many years now, with research showing that hiring managers expect nearly half of all their workers to be working remotely over the next decade. While many trends feed into this way of organizing work, managing the work effectively will be key to the success of organizations globally. In this course, instructor Phil Gold provides managers with a clear approach for getting the most out of their remote teams. He zeros in on the key factors that will ensure productivity, engagement, and growth, as well as a manager’s role in building trust, removing roadblocks, nurturing connections with team members, and setting clear goals.
 
 Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.</td>
-    </tr><tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/3e37b9501fab768cc4b4b20fe21effe40fbb546a7a06889271d55783d201c773?trk=share_certificate #digitaltransformation.'>Digital Transformation</a></td>
-      <td>Digital Transformation</td>
-      <td>It seems as though everywhere you turn, digital transformation is happening. But what is digital, exactly, and what does it encompass? In this course, instructor Peter High helps business leaders better understand the definition of the term; the implications for people, processes, and technology; the risks of ignoring the digital transformation trend; and the rewards one can garner from riding this wave. Learn about the different stages of digital maturity, and the best ways to draw inspiration and insights from digital native companies like Google, Amazon, and Netflix, as well as from digital immigrant companies like FedEx and Domino's Pizza. He also covers the ideal backgrounds of digital leaders. Peter wraps up the course by explaining how to create a strategic digital transformation plan for your organization.</td>
-    </tr><tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/692d646933c37f6e1c8f4f36d75365af14b61961f8ff3abf6c7da59ce3414fc3?trk=share_certificate #wordpress.'>WordPress 5 Essential Training</a></td>
-      <td>WordPress 5 Essential Training</td>
-      <td>WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed "Gutenberg."
-
-Note: This course covers WordPress 5. The training will be updated as WordPress evolves.</td>
     </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/6db1ff6fe7ec8f36620d7b4b4b398bc89bd143468865f778e720c160731f8a49?trk=share_certificate #teamwork.'>Teamwork Foundations</a></td>
       <td>Teamwork Foundations</td>
