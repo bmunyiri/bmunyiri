@@ -130,8 +130,11 @@
       <td><a href='https://www.linkedin.com/learning/certificates/ad3a880dd06590de4a860dfb6f785e0d4197792fa23b4755dd4c6714b32ab63b?trk=share_certificate #javascript.'>JavaScript: Maps and Sets</a></td>
       <td>JavaScript: Maps and Sets</td>
       <td>Programming languages are always evolving and changing, and JavaScript is no exception. Over time, JavaScript has grown, and many new aspects have been added, including maps and sets. JavaScript maps and sets may sound simple, but they aren't quite the same as their counterparts in other programming languages. In this course, software engineer Jamie Pittman covers the ins and outs of JavaScript maps and sets, their syntax, how they work, and how to integrate them into your daily coding practice. Topics covered include a general overview of these features, when and where to use them, their WeakMap and WeakSet versions, and the various methods and properties associated with them.</td>
-    </tr>
-                  <tr>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/879fe6cf89fc86f1e2e44904a84546a766a5480192dc72bf9ba6ca9ec310348e?trk=share_certificate #nodejs.'>Learning Node.js</a></td>
+      <td>Learning Node.js</td>
+      <td>Node.js is a platform built on the Chrome JavaScript runtime that can help you build fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient—perfect for data-intensive real-time applications that run across distributed devices. In this course, learn the basics of Node.js, and discover how to build a simple application. Alexander Zanfir goes into topics such as npm, reading and writing files, and Node.js frameworks. He covers Node.js features, such as async/await, and dives into popular web development concepts. Alexander also walks through how to build a demo chat app from start to finish.</td>
+    </tr> <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/37a56b3e63d64b8c687bae643ca243c280dbc9f046fed7416d7cf7873b7dff20?trk=share_certificate #expressjs.'>Express Essential Training</a></td>
       <td>Express Essential Training</td>
       <td>Are you looking for a quick introduction on the basics of using Express? Express is a flexible, minimalist framework that sits on top of Node.js, allowing you to build powerful websites and web applications with quick and easy-to-use APIs. In this course, full-stack software engineer Jamie Pittman shows you how to get started with this engaging, popular framework.
