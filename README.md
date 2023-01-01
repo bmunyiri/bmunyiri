@@ -172,6 +172,10 @@ Learn the basics of how to set up Express, create a server, and build an applica
 
 Note: This course covers WordPress 5. The training will be updated as WordPress evolves.</td>
     </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/d313fff4891d7536d32fadc0a67031dee36b327d0214bde15e28b7497d6067ca?trk=share_certificate #searchengineoptimization #wordpress.'>WordPress: SEO</a></td>
+      <td>WordPress: SEO</td>
+      <td>Out of the box, WordPress is search engine friendly. But there's still more you can do to make your site visible to search engines and social media networks. In this introductory course focusing on basic setup and usage scenarios, learn how to drive more visitors to your WordPress site by performing search engine optimization (SEO) with the help of two powerful plugins: All in One SEO Pack and Yoast SEO. Along the way, learn how to take advantage of WordPress settings that can help you out as you optimize your site.</td>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
       <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
       <td>The world is being transformed by a fourth industrial revolution. Sometimes referred to as Industry 4.0 or I4.0, the fourth industrial revolution takes the digital revolution a step further. The technology at its center—large-scale, low-cost automation and machine intelligence—has the potential to affect how we learn, work, move, communicate, and interact. This lecture-based series reviews the disruptive changes underway in science and culture and their impact on the future. Learn about the main technologies that are emerging, including artificial intelligence and blockchain, and their effect on cities, industries, and people. Dr. Jonathan Reichental also explains how people can take action to ensure Industry 4.0 doesn't leave anybody behind.
