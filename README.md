@@ -105,13 +105,21 @@
       <th>Description</th>
     </tr>
   </thead>
-  <tbody>  
+  <tbody> 
+                             <tr>
+      <td><a href='09333fe21b345feaee1676e108235bbc4eb2dace3441a2c27a3ec5fa8efa7232'>Figma Essential Training: The Basics</a></td>
+      <td>Figma Essential Training: The Basics</td>
+      <td>Learn how to use Figma, the collaborative interface design tool. This course introduces the features and concepts you’ll need to know to start your first user experience (UX) design project in Figma. Find out how to create new files, segment your project for multiple screens and devices, and start adding content, including shapes, images, drawing, effects, and text. Instructor Brian Wood then shows how to work smarter—not harder—using Figma features like layers, reusable formatting, and components. In the final chapters, you can add interactions to the mix to build functional prototypes that really tell the whole story of your design to collaborators and clients.
+
+Note: This course was created by Brian Wood. We are pleased to offer this training in our library.</td>
+    </tr>
       <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/4d78cf21bbe9903181b52766e5d337a7f093111a236401503a79c523040d24e6?trk=share_certificate #ecmascript.'>Learning ECMAScript 6+ (ES6+)</a></td>
       <td>Learning ECMAScript 6+ (ES6+)</td>
       <td>ECMAScript—the standardized version of JavaScript—keeps getting more powerful. ES6 was a large leap forward, introducing features that changed how developers structure programs. But every year since there have been updates and additional improvements. This course helps you create modern JavaScript applications leveraging the most interesting and useful features in ES6+. Eve Porcello introduces the new keywords and operators that can help simplify code, as well as new ways of creating functions and objects. She also shows you how to write and search through template strings, create map objects to store key/value pairs, move values from one array to another—or one object to another—with the spread operator, build reusable classes, and use arrow functions and generators. Plus, learn how to handle asynchronous data and tasks with promises, fetch, and the async/await syntax.
 </td>
-    </tr><tr>
+    </tr>
+<tr>
       <td><a href='https://www.linkedin.com/learning/certificates/213dad55764907ab6808e21b2530cda4dc8e20cda68bf7d5b568e9392af35c65?trk=share_certificate #reactjs.'>React.js Essential Training</a></td>
       <td>React.js Essential Training</td>
       <td>Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; use the Create React App to run tests, and more. By the end of the course, you'll be armed with the essentials of React.js and better prepared to build your own browser-based projects.</td>
