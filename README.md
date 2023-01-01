@@ -106,12 +106,51 @@
     </tr>
   </thead>
   <tbody>  
-                        <tr>
+      <tr><td><a href='https://www.linkedin.com/learning/certificates/f45b1aedd0cd04882623596972e7b32fbe60daa3e02d7485eda139a48f30810e?trk=share_certificate #progressivewebapplications #reactjs.'>React: Building Progressive Web Apps (PWAs)</a></td>
+      <td>React: Building Progressive Web Apps (PWAs)</td>
+      <td>Single-page applications may be smooth, quick, and effective—but they disappear when the network connection drops. Progressive web apps (PWAs) work offline, enhancing resilience and allowing developers create seamless user experiences that feel like native apps. Learn how to build your own PWAs using React, the flexible front-end framework, in this course with Eve Porcello. Eve explains how to build the PWA component, fetch data, use Lighthouse to validate your app, and add offline capabilities to keep your app running even when the internet is down. Plus, learn how to install your app locally with browsers like Chrome and Safari for iOS.</td>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/4d78cf21bbe9903181b52766e5d337a7f093111a236401503a79c523040d24e6?trk=share_certificate #ecmascript.'>Learning ECMAScript 6+ (ES6+)</a></td>
+      <td>Learning ECMAScript 6+ (ES6+)</td>
+      <td>ECMAScript—the standardized version of JavaScript—keeps getting more powerful. ES6 was a large leap forward, introducing features that changed how developers structure programs. But every year since there have been updates and additional improvements. This course helps you create modern JavaScript applications leveraging the most interesting and useful features in ES6+. Eve Porcello introduces the new keywords and operators that can help simplify code, as well as new ways of creating functions and objects. She also shows you how to write and search through template strings, create map objects to store key/value pairs, move values from one array to another—or one object to another—with the spread operator, build reusable classes, and use arrow functions and generators. Plus, learn how to handle asynchronous data and tasks with promises, fetch, and the async/await syntax.
+</td>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/213dad55764907ab6808e21b2530cda4dc8e20cda68bf7d5b568e9392af35c65?trk=share_certificate #reactjs.'>React.js Essential Training</a></td>
       <td>React.js Essential Training</td>
       <td>Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; use the Create React App to run tests, and more. By the end of the course, you'll be armed with the essentials of React.js and better prepared to build your own browser-based projects.</td>
-    </tr> 
-               <tr>
+    </tr>                  <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/13ab0de284e485c55409eea5441662516d757305ae434ccce41936e6e7766574?trk=share_certificate #reacthooks.'>React Hooks</a></td>
+      <td>React Hooks</td>
+      <td>React Hooks embed logic into functions in new React applications. In this course, instructor Eve Porcello covers various styles of Hooks usage and ways to integrate them into your programming workflow. She tells you how Hooks came to be part of the library, then walks you through how to install Create React App. Eve covers how you can use the useState Hook to handle different types of state variables and work with component trees. The useEffect Hook can be used for several application side effects, whenever the state of the app changes. Eve teaches you how to work with the dependency array effect and fetch data with the useEffect Hook. Next, she explains several additional Hooks and steps through the process of creating custom Hooks. In conclusion, Eve shows you some different directions you can pursue to improve your knowledge of the React ecosystem.</td>
+    </tr><tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/71613106ca8d9cde1de2c41c76344d7bc0cafdd3fc804ab747c489c2a0245545?trk=share_certificate #javascript.'>JavaScript: Patterns</a></td>
+      <td>JavaScript: Patterns</td>
+      <td>For the past two decades, programmers have structured both their code and their conversations about code around the patterns first described in Design Patterns, the classic Gang of Four book. JavaScript programmers have participated in these conversations, but the patterns discussed mostly fit in the world of orthodox object-oriented programming. In this course, Emmanuel Henri explains how these patterns fit with JavaScript. He demystifies the purpose of some of the most common patterns, providing code examples along the way. Learn about key creational, structural, and behavioral design patterns, and how you can apply each of them in your JavaScript code.</td>
+    </tr>                  <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/ad3a880dd06590de4a860dfb6f785e0d4197792fa23b4755dd4c6714b32ab63b?trk=share_certificate #javascript.'>JavaScript: Maps and Sets</a></td>
+      <td>JavaScript: Maps and Sets</td>
+      <td>Programming languages are always evolving and changing, and JavaScript is no exception. Over time, JavaScript has grown, and many new aspects have been added, including maps and sets. JavaScript maps and sets may sound simple, but they aren't quite the same as their counterparts in other programming languages. In this course, software engineer Jamie Pittman covers the ins and outs of JavaScript maps and sets, their syntax, how they work, and how to integrate them into your daily coding practice. Topics covered include a general overview of these features, when and where to use them, their WeakMap and WeakSet versions, and the various methods and properties associated with them.</td>
+    </tr>
+                  <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/37a56b3e63d64b8c687bae643ca243c280dbc9f046fed7416d7cf7873b7dff20?trk=share_certificate #expressjs.'>Express Essential Training</a></td>
+      <td>Express Essential Training</td>
+      <td>Are you looking for a quick introduction on the basics of using Express? Express is a flexible, minimalist framework that sits on top of Node.js, allowing you to build powerful websites and web applications with quick and easy-to-use APIs. In this course, full-stack software engineer Jamie Pittman shows you how to get started with this engaging, popular framework.
+
+Learn the basics of how to set up Express, create a server, and build an application with the Express application generator. Explore essential routing concepts, core HTTP methods, JavaScript handler code, and how to work with middleware. Get tips on how to debug an Express application and use Express with other available databases. And because security is a top concern for all developers, Jamie shares best practices for structuring your environment for safety.</td>
+    </tr> <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/173402eb66ef13bf89cbc4e90ae0528f81251d0c7a730cd13fdc2ba6150397da?trk=share_certificate #mongodb.'>MongoDB Essential Training</a></td>
+      <td>MongoDB Essential Training</td>
+      <td>MongoDB is a NoSQL document database with an expressive and intuitive query language. While MongoDB is easy to get started with, there is more to using MongoDB than storing and retrieving JSON documents. In this course, Naomi Pentrel teaches MongoDB essentials, covering CRUD operations, aggregation pipelines, and drivers as well as advanced database features and database administration topics. If you’re looking for the knowledge to run MongoDB effectively in production, how to perform advanced queries, and how to administer databases, join Naomi in this course.</td>
+    </tr>  
+                         <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/f5f0839a64f16374effe2860ed7a54957426238f871725c02b2a055bf59f431f?trk=share_certificate #mongodb.'>Advanced MongoDB Code Challenges</a></td>
+      <td>Advanced MongoDB Code Challenges</td>
+      <td>MongoDB is one of the most popular nonrelational databases in the world. If you’re looking to build out your skill set, your best move may be to dive right in. In this approachable, hands-on course, instructor John Cokos leads intermediate to advanced users through a series of practical coding challenges to help you get the most out of MongoDB. Learn how to query or find using aggregation pipelines to process documents, sort and group records, shape your output, and create calculated fields. Along the way, you’ll build out your toolbox with the necessary skills to work with multiple documents and relationships.</td>
+    </tr>    <tr>
+      <td><a href='https://www.linkedin.com/learning/certificates/94677df6f9d7a9fe83932d20a2366aa94bbf90fc73205498c2ee79cc679250d0?trk=share_certificate%20#php.'>PHP Essential Training</a></td>
+      <td>PHP Essential Training</td>
+      <td>PHP is a popular programming language that you can use to write simple code for web pages. If you have been using HTML to develop websites, learning PHP will allow you to create dynamic pages. In this course, learn the fundamentals of PHP. Kevin Skoglund covers concepts such as how to embed PHP code into an HTML page, and reviews the basic PHP data types such as strings and arrays. He also covers the different control structures in PHP, how to work with built-in PHP functions, and how to define your own custom functions.</td>
+    </tr>  <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/69a164a271bd55932afcf454177703ae2e131b934221cd62f3832ec61e3eb94a?trk=share_certificate%20#informationmanagement.'>Information Management: Document Security</a></td>
       <td>Information Management: Document Security</td>
       <td>Learn how to balance the need for cloud-based collaboration with document security best practices. In this course, Phil Gold explores how to structure an enterprise content management solution that ensures that documents are both collaborative and safe. Phil begins by reviewing basic server and security concepts, including different server structures, multilevel authentication layers, and data retention policies. He then discusses how to set security levels that don't negatively impact productivity, provide access for remote employees, and manage permissions. To wrap up, he shares best practices that can empower users to keep their documents secure.
@@ -141,11 +180,7 @@ Identify when during the interview process you should explore the possibility of
       <td>The world of work is moving rapidly from on premises to online. Everything as a Service (XaaS)—a category of computing that allows individuals and organizations to easily acquire a variety of computing-related services over the internet—is fueling this digital transformation. Curious about how XaaS can help you compete in a rapidly evolving global marketplace? This course can help. Tune in to learn what XaaS is in business terms, how it can help your organization, and the skills and prerequisites you need to implement it.
 
 Instructor Jonathan Reichental begins by demystifying the origins of XaaS, as well as the most important as-a-service models, such as software as a service (SaaS), infrastructure as a service (IaaS), and platform as a service (PaaS). He then lays out why XaaS needs to be part of any digital transformation strategy, as well as what to know before implementing it. Plus, he provides a case study that shows how XaaS is being used by real-world businesses.</td>
-    </tr>             <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/173402eb66ef13bf89cbc4e90ae0528f81251d0c7a730cd13fdc2ba6150397da?trk=share_certificate #mongodb.'>MongoDB Essential Training</a></td>
-      <td>MongoDB Essential Training</td>
-      <td>MongoDB is a NoSQL document database with an expressive and intuitive query language. While MongoDB is easy to get started with, there is more to using MongoDB than storing and retrieving JSON documents. In this course, Naomi Pentrel teaches MongoDB essentials, covering CRUD operations, aggregation pipelines, and drivers as well as advanced database features and database administration topics. If you’re looking for the knowledge to run MongoDB effectively in production, how to perform advanced queries, and how to administer databases, join Naomi in this course.</td>
-    </tr>  
+    </tr>            
                 <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/efcf272499c039ac4087f5a85fc6d624e4bca02474f84be4cd88d970212b7b14?trk=share_certificate%20#industry40.'>Foundations of the Fourth Industrial Revolution (Industry 4.0)</a></td>
       <td>Foundations of the Fourth Industrial Revolution (Industry 4.0)</td>
@@ -158,82 +193,45 @@ Impact of the fourth industrial revolution
 Taking action                            
                             </td>
     </tr>  
-              <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/f5f0839a64f16374effe2860ed7a54957426238f871725c02b2a055bf59f431f?trk=share_certificate #mongodb.'>Advanced MongoDB Code Challenges</a></td>
-      <td>Advanced MongoDB Code Challenges</td>
-      <td>MongoDB is one of the most popular nonrelational databases in the world. If you’re looking to build out your skill set, your best move may be to dive right in. In this approachable, hands-on course, instructor John Cokos leads intermediate to advanced users through a series of practical coding challenges to help you get the most out of MongoDB. Learn how to query or find using aggregation pipelines to process documents, sort and group records, shape your output, and create calculated fields. Along the way, you’ll build out your toolbox with the necessary skills to work with multiple documents and relationships.</td>
-    </tr>
+ 
                   <tr>
       <td><a href='https://www.linkedin.com/learning/certificates/1532185e8744eafafdc555bbf3cbb7133f37850e4d2347cb73e65a85d535f866?trk=share_certificate #jobsearchstrategies.'>Finding a Remote Job</a></td>
       <td>Finding a Remote Job</td>
       <td>Do you want a remote job? Do you want more job flexibility? Do you want to be able to work from anywhere? If you are looking for a job that aligns with your life, then a remote job might be right for you. Mike Gutman, remote work consultant and former marketing director at FlexJobs, explains how the remote job market has shifted and how you can position yourself to build a remote career. He goes over the pitfalls to avoid, how to build a remote-friendly resume and cover letter, regardless of your remote experience, and how to navigate the remote job search, application, and interview process. This course is designed to help you get your resume to the top of the stack, so you can land that next remote job and invest in your remote skills for the long haul.</td>
-    </tr>
-               <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/7952ae5dc06fff594eb49e0d26f10fd20aaa842e9d5a0340a12159f28d451834?trk=share_certificate #telecommuting #virtualoffice.'>Remote Work Foundations</a></td>
       <td>Remote Work Foundations</td>
       <td>When you unlock the power of remote work, you can ditch your commute, work where you focus best, and spend more time doing things you love, all while advancing your career. In this course, coach Mike Gutman from FlexJobs shows how to use today's cloud-based communication and collaboration tools to get work done from anywhere, while remaining connected to your organization. He reveals how you can create a productive work environment at home or around town by structuring your day correctly and avoiding distractions. He also explains how to build rapport with remote colleagues so you feel like you're part of the team and succeed in your remote career. Watch this course to learn how to work productively, when and where you want, and achieve the freedom and flexibility you need for a more balanced life.
 
 Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.</td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/297ed42265b3be5edbebf0787e049d0e79677ed52505193f69d173978dc0beab?trk=share_certificate%20#remoteteammanagement.'>Managing Virtual Teams</a></td>
       <td>Managing Virtual Teams</td>
       <td>Working remotely has been on the rise for many years now, with research showing that hiring managers expect nearly half of all their workers to be working remotely over the next decade. While many trends feed into this way of organizing work, managing the work effectively will be key to the success of organizations globally. In this course, instructor Phil Gold provides managers with a clear approach for getting the most out of their remote teams. He zeros in on the key factors that will ensure productivity, engagement, and growth, as well as a manager’s role in building trust, removing roadblocks, nurturing connections with team members, and setting clear goals.
 
 Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.</td>
-    </tr>
-    <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/94677df6f9d7a9fe83932d20a2366aa94bbf90fc73205498c2ee79cc679250d0?trk=share_certificate%20#php.'>PHP Essential Training</a></td>
-      <td>PHP Essential Training</td>
-      <td>PHP is a popular programming language that you can use to write simple code for web pages. If you have been using HTML to develop websites, learning PHP will allow you to create dynamic pages. In this course, learn the fundamentals of PHP. Kevin Skoglund covers concepts such as how to embed PHP code into an HTML page, and reviews the basic PHP data types such as strings and arrays. He also covers the different control structures in PHP, how to work with built-in PHP functions, and how to define your own custom functions.</td>
-    </tr>
-                  <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/3e37b9501fab768cc4b4b20fe21effe40fbb546a7a06889271d55783d201c773?trk=share_certificate #digitaltransformation.'>Digital Transformation</a></td>
       <td>Digital Transformation</td>
       <td>It seems as though everywhere you turn, digital transformation is happening. But what is digital, exactly, and what does it encompass? In this course, instructor Peter High helps business leaders better understand the definition of the term; the implications for people, processes, and technology; the risks of ignoring the digital transformation trend; and the rewards one can garner from riding this wave. Learn about the different stages of digital maturity, and the best ways to draw inspiration and insights from digital native companies like Google, Amazon, and Netflix, as well as from digital immigrant companies like FedEx and Domino's Pizza. He also covers the ideal backgrounds of digital leaders. Peter wraps up the course by explaining how to create a strategic digital transformation plan for your organization.</td>
-    </tr>
-                  <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/692d646933c37f6e1c8f4f36d75365af14b61961f8ff3abf6c7da59ce3414fc3?trk=share_certificate #wordpress.'>WordPress 5 Essential Training</a></td>
       <td>WordPress 5 Essential Training</td>
       <td>WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed "Gutenberg."
 
 Note: This course covers WordPress 5. The training will be updated as WordPress evolves.</td>
-    </tr>
-                  <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/6db1ff6fe7ec8f36620d7b4b4b398bc89bd143468865f778e720c160731f8a49?trk=share_certificate #teamwork.'>Teamwork Foundations</a></td>
       <td>Teamwork Foundations</td>
       <td>Whatever job you do, it’s likely you work in a team. Your performance will depend on your ability to work successfully with other people. Learn the qualities of effective teams and the role you, as a team member, play in creating a healthy, productive team in this course taught by management trainer Chris Croft. In addition to the importance of knowing your own strengths and weaknesses, Chris emphasizes the significance of delivering what is expected of you, listening to other team members, communicating clearly, playing more than one role, and being supportive. The training is jam-packed with practical ideas to become a great team player and help you and your organization become more successful.</td>
-    </tr>
-                  <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/71613106ca8d9cde1de2c41c76344d7bc0cafdd3fc804ab747c489c2a0245545?trk=share_certificate #javascript.'>JavaScript: Patterns</a></td>
-      <td>JavaScript: Patterns</td>
-      <td>For the past two decades, programmers have structured both their code and their conversations about code around the patterns first described in Design Patterns, the classic Gang of Four book. JavaScript programmers have participated in these conversations, but the patterns discussed mostly fit in the world of orthodox object-oriented programming. In this course, Emmanuel Henri explains how these patterns fit with JavaScript. He demystifies the purpose of some of the most common patterns, providing code examples along the way. Learn about key creational, structural, and behavioral design patterns, and how you can apply each of them in your JavaScript code.</td>
-    </tr>
-                  <tr>
+    </tr><tr>
       <td><a href='https://www.linkedin.com/learning/certificates/301cb3050cf59c7de3ecfe0db1c59e64c14801933a6a52f6887d3ca17dbb6faa?trk=share_certificate #careermanagement.'>Get Ready for Your Coding Interview</a></td>
       <td>Get Ready for Your Coding Interview</td>
       <td>If you've nabbed an interview for a software development position, it's likely that you'll have to face a common hurdle—the coding interview. If you're not sure what to expect, or you'd like to brush up on the essential topics that candidates are often tested on, then this course is for you.
 
 Follow YK Sugishita as he explains what to keep in mind as you prepare for coding interviews. YK covers useful concepts that can help you master your interview, followed by practice problems that test what you know. YK reviews key concepts such as two-dimensional arrays, time complexity, Big-O notation, and hash tables. To wrap up, he shares a few tips for acing your interview, such as how to come up with an optimal solution. Even if you're not prepping for an upcoming job interview, tackling the coding problems covered in this course is a great way to sharpen your programming skills.</td>
     </tr>
-                  <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/ad3a880dd06590de4a860dfb6f785e0d4197792fa23b4755dd4c6714b32ab63b?trk=share_certificate #javascript.'>JavaScript: Maps and Sets</a></td>
-      <td>JavaScript: Maps and Sets</td>
-      <td>Programming languages are always evolving and changing, and JavaScript is no exception. Over time, JavaScript has grown, and many new aspects have been added, including maps and sets. JavaScript maps and sets may sound simple, but they aren't quite the same as their counterparts in other programming languages. In this course, software engineer Jamie Pittman covers the ins and outs of JavaScript maps and sets, their syntax, how they work, and how to integrate them into your daily coding practice. Topics covered include a general overview of these features, when and where to use them, their WeakMap and WeakSet versions, and the various methods and properties associated with them.</td>
-    </tr>
-                  <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/37a56b3e63d64b8c687bae643ca243c280dbc9f046fed7416d7cf7873b7dff20?trk=share_certificate #expressjs.'>Express Essential Training</a></td>
-      <td>Express Essential Training</td>
-      <td>Are you looking for a quick introduction on the basics of using Express? Express is a flexible, minimalist framework that sits on top of Node.js, allowing you to build powerful websites and web applications with quick and easy-to-use APIs. In this course, full-stack software engineer Jamie Pittman shows you how to get started with this engaging, popular framework.
-
-Learn the basics of how to set up Express, create a server, and build an application with the Express application generator. Explore essential routing concepts, core HTTP methods, JavaScript handler code, and how to work with middleware. Get tips on how to debug an Express application and use Express with other available databases. And because security is a top concern for all developers, Jamie shares best practices for structuring your environment for safety.</td>
-    </tr>
-                  <tr>
-      <td><a href='https://www.linkedin.com/learning/certificates/13ab0de284e485c55409eea5441662516d757305ae434ccce41936e6e7766574?trk=share_certificate #reacthooks.'>React Hooks</a></td>
-      <td>React Hooks</td>
-      <td>React Hooks embed logic into functions in new React applications. In this course, instructor Eve Porcello covers various styles of Hooks usage and ways to integrate them into your programming workflow. She tells you how Hooks came to be part of the library, then walks you through how to install Create React App. Eve covers how you can use the useState Hook to handle different types of state variables and work with component trees. The useEffect Hook can be used for several application side effects, whenever the state of the app changes. Eve teaches you how to work with the dependency array effect and fetch data with the useEffect Hook. Next, she explains several additional Hooks and steps through the process of creating custom Hooks. In conclusion, Eve shows you some different directions you can pursue to improve your knowledge of the React ecosystem.</td>
-    </tr>
-    </tbody>
+</tbody>
 </table>
 </details>
 <!-- end work project section -->
