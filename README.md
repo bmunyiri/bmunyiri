@@ -519,12 +519,12 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
       </a>
       <br>Pandas
     </td>
-        <td align="center" width="96">
+      <td align="center"  width="96">
       <a >
-        <img />
+        <img src="numpy-original.svg" width="60" height="60" alt="numpy" />
       </a>
-      <br>
-    </td>
+      <br>Numpy
+    </td> 
     <td align="center"  width="96">
       <a >
         <img  />
