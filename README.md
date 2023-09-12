@@ -314,14 +314,14 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
       <td>Front End Development Libraries</td>
       <td>Developer Certification, representing approximately 300 hours of coursework..</td>
     </tr>
-    <tr>
-      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/data-analysis-with-python'</a>Data Analysis With Python</td>
-      <td>Data Analysis </td>
-      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
-    </tr>
       <tr>
       <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/responsive-web-design'</a>Responsive Web Design</td>
       <td>Responsive Web Design</td>
+      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
+    </tr>
+        <tr>
+      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/data-analysis-with-python-v7'</a>Data Analysis With Python</td>
+      <td>Data Science</td>
       <td>Developer Certification, representing approximately 300 hours of coursework..</td>
     </tr>
     </tbody>
