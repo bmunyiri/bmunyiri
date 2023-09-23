@@ -329,6 +329,27 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
 </details>
 <!-- end work project section -->
 <!-- start work experience section -->
+                  <details>
+<summary><b>Other Certifications :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Other</th>
+      <th>Program Enrolled</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td><a href='https://olympus.mygreatlearning.com/courses/30824/certificate'>Data Visualization With Power BI</a></td>
+      <td>Data Visualization With Power BI</td>
+      <td>Data Analytics Certification</td>
+    </tr>
+    </tbody>
+</table>
+</details>
+<!-- end work project section -->
+<!-- start work experience section -->
 <details>
 <summary><b> WordPress Portfolio :point_right: </b></summary>
 <table>
