@@ -8,7 +8,7 @@
 
             💻
 - 🎆 I’m currently ... 
-- 📚 I’m currently learning ... 
+- 📚 I’m currently learning ... MERN Stack Components
 - 🔗 I’m looking to collaborate on ...
 - 🙏 I’m looking for help with ... 
 - 😊 Ask me about ... __Python__, __Pandas__, __Numpy__, __DAX__, __HTML__, __CSS3__, __Javascript__, __SQL__, __PHP__, __WordPress__, __MongoDB__
@@ -322,6 +322,11 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
         <tr>
       <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/data-analysis-with-python-v7'</a>Data Analysis With Python</td>
       <td>Data Science</td>
+      <td>Developer Certification, representing approximately 300 hours of coursework..</td>
+    </tr>
+        <tr>
+      <td><a href='https://www.freecodecamp.org/certification/Bernard-N-Munyiri/scientific-computing-with-python-v7'</a>Scientific Computing With Python</td>
+      <td>Python Programming</td>
       <td>Developer Certification, representing approximately 300 hours of coursework..</td>
     </tr>
     </tbody>
