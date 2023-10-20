@@ -23,6 +23,7 @@
 ### 👀 View Some Of My Projects 📺
 
 - 📜 Portfolio - [Projects On Github](https://github.com/bmunyiri?tab=repositories)
+- 📜 Portfolio - [Github Web Page](https://bmunyiri.github.io/BernardNMunyiri/)
 - 📜 Portfolio - [Projects On Netlify](https://app.netlify.com/teams/bmunyiri/sites)
 - 📜 Portfolio - [Projects on Code SandBox](https://codesandbox.io/u/bmunyiri)
 
