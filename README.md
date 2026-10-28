@@ -644,7 +644,7 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
 <br/><br/>
 
 ### 🚴‍♂️ Visitors  Profile
-<img alt="visitors counter" src="https://profile-counter.glitch.me/bmunyiri/count.svg">
+![Visitors](https://profile-counter.glitch.me/bmunyiri/count.svg)
 
 <br/><br/>
 
