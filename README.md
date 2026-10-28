@@ -648,7 +648,7 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
 
 <br/><br/>
 
-![Metrics](https://metrics.lecoq.io/bmunyiri?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)
+![Metrics](https://github.com/bmunyiri/bmunyiri/blob/main/github-metrics.svg)
 
 <br/><br/>
 
