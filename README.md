@@ -4,16 +4,16 @@
 
 
 ### Hi there 👋 
-### My names are Bernard N Munyiri
+### My name is Bernard N Munyiri
 
             💻
 - 🎆 I’m currently ... 
 - 📚 I’m currently learning ... MERN Stack Components
 - 🔗 I’m looking to collaborate on ...
 - 🙏 I’m looking for help with ... 
-- 😊 Ask me about ... __Python__, __Pandas__, __Numpy__, __DAX__, __HTML__, __CSS3__, __Javascript__, __SQL__, __PHP__, __WordPress__, __MongoDB__
+- 😊 Ask me about ... __Django__,__Python__, __Pandas__, __Numpy__, __DAX__, __HTML__, __CSS3__, __Javascript__, __SQL__, __PHP__, __WordPress__, __MongoDB__
 - 👴 Pronouns: ...Him/He
-- 😎 Fun fact: ...always learning / Life is Good
+- 😎 Fun fact: ...
 - :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/bernard-njiru-munyiri)** 
 
            ☕
