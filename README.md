@@ -648,9 +648,6 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
 
 <br/><br/>
 
-![Metrics](https://github.com/bmunyiri/bmunyiri/blob/main/github-metrics.svg)
-
-<br/><br/>
 
 ### 🍹 I am social :
 
