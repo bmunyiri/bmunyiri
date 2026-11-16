@@ -376,7 +376,7 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
     </tr>
                  <tr>
                              <td>My lil Store Kenya </td>
-    <td><a href='http://mylilstorekenya.com'>My lil Store Kenya</a></td>
+    <td><a href='#'>My lil Store Kenya</a></td>
     </tr>
               <tr>
                           <td>Safes and Office Security Ltd</td>
@@ -390,13 +390,17 @@ Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entre
                           <td>Manufacturers & Suppliers (K) Ltd</td>
                         <td><a href='https://mslabrasives.com'>Manufacturers & Suppliers (K) Ltd</a></td>
               </tr>
+               <tr>
+                          <td>Joekev Kuku's</td>
+                          <td><a href='#'>Joekev Kuku's</a></td>
+              </tr>
                 <tr>
                           <td>iNFiNiTY Baisikeli Ltd</td>
                          <td><a href='https://infinity.ke'>iNFiNiTY Baisikeli Ltd</a></td>
               </tr>
                 <tr>
                           <td>MacDavidson Consulting Group Limited</td>
-                          <td><a href='http://www.macdavidson.co.ke'>MacDavidson Consulting Group Limited</a></td>
+                          <td><a href='#'>MacDavidson Consulting Group Limited</a></td>
               </tr>
                 <tr>
                           <td>Stoic The Award-Winning Company</td>
